@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "酩酊華",
+  "base_artist": "Uscool",
+  "createdAt": "2025-12-03T11:25:18.136287Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "酩酊華 (feat. natsumi & あらの)",
+      "artist": "Uscool",
+      "has_synced": false,
+      "path": "select/pl_01_酩酊華_(feat._natsumi_&_あらの)_Uscool.txt"
+    }
+  ]
+}
